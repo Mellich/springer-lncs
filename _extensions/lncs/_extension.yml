@@ -18,9 +18,9 @@ contributes:
       # Set this below (`biblio-config: false`) if your cls already load a bst file
       # biblio-config: false
       # Content to add in header that your format is using
-      header-includes: |
-        \usepackage{orcidlink}
-        \definecolor{mypink}{RGB}{219, 48, 122}
+      # header-includes: |
+      #   \usepackage{orcidlink}
+      #   \definecolor{mypink}{RGB}{219, 48, 122}
       template-partials:
         # Add here the partials your format is using
         - "partials/title.tex"
