@@ -12,6 +12,7 @@ contributes:
       urlcolor: blue
       fig-width: 6.5
       fig-height: 4.5
+      indent: true
       # This format use a bst file with natbib
       biblio-style: lncs
       cite-method: biblatex

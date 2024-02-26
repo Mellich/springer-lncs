@@ -23,7 +23,6 @@ author:
 abstract: |
   This document is only a demo explaining how to use the template.
 keywords: [template, demo]
-indent: true
 reference-section-title: References
 bibliography: bibliography.bib  
 
