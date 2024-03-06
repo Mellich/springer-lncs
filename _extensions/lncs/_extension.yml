@@ -1,6 +1,6 @@
 title: Springer LNCS Template
 author: Marius Meyer
-version: 0.1.1
+version: 0.1.2
 contributes:
   formats:
     pdf:
